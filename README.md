@@ -1,6 +1,7 @@
 TURKvod
-100% Yerli, 100% Ücretsiz ve 100% Herkese Açık
+100% Yerli, 100% Ücretsiz (MALESEF UCRETSIZDI SiMDI 10 EURO OLDU 01-04-2020 ) ve 100% Herkese Açık
 VoD & IPTV Yazılım Projesi
+Sag olun var olun ama ,dort dortluk calisan bir iptv sistemi deyildi malesef turkvod amotorce biseyler bir araya getirilmis eh bedava oldugu icinde idare ediyorduk ,ama 10 euro odeyecek kadar deyil malesef o yuzden su covid19 gunlerinde yapilacak ismi yani simdi sizin yaptiginiz ,insanlar birak evinin kirasini odeyemez iken birde siz paraya basvuruyorsunuz ya ayip , sukur ki Seyirturk eskidende oldugu gibi bedava geldi HIZIR gibi hem kodi icin ve hemde direk android versionu ile super https://github.com/hayatiptv/Seyirturk sag ol var ol
 
 Collection of 8000+ publicly available IPTV channels from all over the world
 
