@@ -26,3 +26,6 @@ VİDEOLAR, MODULLER, IPTV ÇALIŞMIYOR, NE YAPMALIYIM:
 https://safe.nimiq.com/#_request/NQ09715YQNGBC4NF77K9P9SPUCUQ8L59RGHE_
 
 <li><a href="https://tvflix.co" rel="nofollow">TV Flix</a> - 8000+ TV Stations in your browser.</li>
+
+<li><a href="https://www.sporizle1.pw/" rel="nofollow">TV Kanallari</a> - + TV Stations in your browser.</li>
+
